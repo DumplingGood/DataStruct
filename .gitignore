@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+DataStruct_main/SeqList/SeqList.VC.VC.opendb
+DataStruct_main/SeqList/SeqList.VC.db
+DataStruct_main/SeqList/.vs/SeqList/v14/.suo
+DataStruct_main/SeqList/SeqList.VC.db

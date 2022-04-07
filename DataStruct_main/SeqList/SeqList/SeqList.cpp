@@ -1,5 +1,6 @@
 // SeqList.cpp : 定义控制台应用程序的入口点。
 //
+// 静态顺序表 - 数据结构
 
 #include "stdafx.h"
 #include <stdio.h>
