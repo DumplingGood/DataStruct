@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SeqList", "SeqList\SeqList.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SeqList2", "..\SeqList2\SeqList2.vcxproj", "{BA62BFA8-F4A6-4E43-B109-09F4D24BEDFD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkList", "..\LinkList\LinkList.vcxproj", "{1EB61896-23CD-44E8-BDBB-36295C0EA91F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BA62BFA8-F4A6-4E43-B109-09F4D24BEDFD}.Release|x64.Build.0 = Release|x64
 		{BA62BFA8-F4A6-4E43-B109-09F4D24BEDFD}.Release|x86.ActiveCfg = Release|Win32
 		{BA62BFA8-F4A6-4E43-B109-09F4D24BEDFD}.Release|x86.Build.0 = Release|Win32
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Debug|x64.ActiveCfg = Debug|x64
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Debug|x64.Build.0 = Debug|x64
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Debug|x86.Build.0 = Debug|Win32
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Release|x64.ActiveCfg = Release|x64
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Release|x64.Build.0 = Release|x64
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Release|x86.ActiveCfg = Release|Win32
+		{1EB61896-23CD-44E8-BDBB-36295C0EA91F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
